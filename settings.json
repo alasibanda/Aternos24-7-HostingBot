@@ -1,14 +1,14 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Technoblade",
+    "username": "HRITHIKNOOOOBBBBBBBB",
     "password": "",
     "type": "offline"
   },
   "server": {
     "ip": "boubou.aternos.host",
     "port": 34607,
-    "version": "1.21.11"
+    "version": "1.21.1"
   },
   "position": {
     "enabled": true,
