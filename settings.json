@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "boubou.aternos.host:34607",
+    "ip": "boubou.aternos.host",
     "port": 34607,
-    "version": "1.21.1"
+    "version": "1.21.11"
   },
   "position": {
     "enabled": true,
@@ -37,10 +37,10 @@
     },
     "chat-log": true,
     "auto-reconnect": true,
-    "auto-reconnect-delay": 2000,
-    "max-reconnect-delay": 120000,
+    "auto-reconnect-delay": 1000,
+    "max-reconnect-delay": 12000,
     "periodic-rejoin": {
-      "enabled": false,
+      "enabled": true,
       "min-interval": 20,
       "max-interval": 60
     }
@@ -58,7 +58,7 @@
     },
     "random-jump": {
       "enabled": true,
-      "interval": 10000
+      "interval": 1000
     }
   },
   "modules": {
