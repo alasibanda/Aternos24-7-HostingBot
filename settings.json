@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "grownups-8dnx.aternos.me",
+    "ip": "boubou.aternos.host:34607",
     "port": 34607,
     "version": "1.21.1"
   },
@@ -30,9 +30,9 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "Hrithik Noob",
+        "Hrithik Noob",
+        "Hrithik Noob"
       ]
     },
     "chat-log": true,
@@ -73,8 +73,8 @@
     "auto-eat": true
   },
   "beds": {
-    "pick-up-day": false,
-    "place-night": false
+    "pick-up-day": true,
+    "place-night": true
   },
   "discord": {
     "enabled": false,
